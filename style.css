@@ -1,0 +1,12 @@
+body {
+  margin: 20px;
+}
+.head{
+  text-align: center;font-size: 45px; padding: 10px; border: 1px solid rgb(97, 81, 233); background-color: rgb(63, 90, 243);
+}
+.hl a{
+  text-decoration: none; 
+}
+.a01{
+  color: aliceblue; 
+}
